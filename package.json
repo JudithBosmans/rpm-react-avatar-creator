@@ -61,5 +61,8 @@
   },
   "peerDependencies": {
     "react": ">=16"
+  },
+  "dependencies": {
+    "@readyplayerme/react-avatar-creator": "^0.3.0"
   }
 }
